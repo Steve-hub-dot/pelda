@@ -1,0 +1,5 @@
+﻿Kezdő szoba
+Hirtelen egy üres szobában térsz magadhoz.
+K:Kezdo2;E:Kezdo3
+Targy:kenyer;Leny:nagypapa_szelleme
+Targy:kiskes
